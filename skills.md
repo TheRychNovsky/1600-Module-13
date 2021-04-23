@@ -9,4 +9,4 @@
 1. Good Communication
 1. Responsible
 1. Reliable
-[Go back to home page](./README.md)
+1. [Go back to home page](./README.md)
