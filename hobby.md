@@ -8,4 +8,4 @@ I _like_ to visit these sites as well in my freetime:
 * [Reddit](https://www.reddit.com)
 * [Twitch](https://www.twitch.tv)
 * [Discord](https://discord.com)
-[return to home](./README.md)
+> [return to home](./README.md)
